@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    max-width: 600px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+span{
+    color: hsl(223, 87%, 63%);
+}
+h2{
+    font-weight: 600;
+    color:  hsl(0, 0%, 59%);
+    padding-bottom: 10px;
+}
+b{
+    color: black;
+}
+h3{
+ font-size: 20px;
+ padding-bottom: 10px;
+}
